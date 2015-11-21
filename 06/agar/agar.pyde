@@ -38,7 +38,7 @@ def draw():
         
     # remove the food if the hero grabbed any
     if (grabbed_food_idx != -1):    
-        food_x_list.pop(grabbed_food_idx)
+        foood_x_list.pop(grabbed_food_idx)
         food_y_list.pop(grabbed_food_idx)
         
     # add new food if some time has passed
