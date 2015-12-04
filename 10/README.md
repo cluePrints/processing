@@ -14,4 +14,10 @@
 # Що тобі може стати в нагоді
 * Концепція MVC(Model View Controller) з [минулого заняття](../09)
 * [Слайди до цього заняття](https://docs.google.com/presentation/d/1kpvAUzs87-CNFGwBpPiZws42BDuzjJugcdPsS7kbyFk/edit#slide=id.gcd78bdc42_0_0):
-* [Відеоінструкція за якою можна повторювати]()
+* [Відеоінструкція за якою можна повторювати](https://www.youtube.com/watch?v=qDTuIHNQvFQ)
+
+## Покрокове
+
+### Режим кінця гри
+* Додай змінну `game_state`
+* 
