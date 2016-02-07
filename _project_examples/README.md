@@ -20,6 +20,7 @@
 * Скринька для речей з паролем / доступом по картці RFID 
 * Колесо-вирощувалка для рослин, типу [Omega garden](https://www.youtube.com/watch?v=5QefgR5YbvU)
 * Ще приклади є на [instructables](instructables.com)
+* [Світильник який вимикається\вмикається хлопком рук](http://www.instructables.com/id/Clap-Switch-1/)
 
 ## Програмні
 * Персональний вебсайт, наприклад [swiftbricks.com](https://swiftbricks.com)
