@@ -21,6 +21,7 @@
 * Колесо-вирощувалка для рослин, типу [Omega garden](https://www.youtube.com/watch?v=5QefgR5YbvU)
 * Ще приклади є на [instructables](instructables.com)
 * [Світильник який вимикається\вмикається хлопком рук](http://www.instructables.com/id/Clap-Switch-1/)
+* [Планка для селфі що створює еффект руху](https://www.youtube.com/watch?v=x0Iv1eszOV4)
 
 ## Програмні
 * Персональний вебсайт, наприклад [swiftbricks.com](https://swiftbricks.com)
