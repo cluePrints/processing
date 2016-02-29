@@ -3,7 +3,7 @@
 * Трохи тексту для загального опису
 * Функції (шматки які можна робити ізольовано одне від одного)
 * Деталі (з яких готових компонентів будеш це збирати)
- * Залізячні компоненти можна подивитися на [arduino-ua](arduino-ua.com)
+ * Залізячні компоненти можна подивитися на [arduino-ua](http://arduino-ua.com), [uamper](http://uamper.com)
 * З чим тобі потрібна допомога
 
 [Приклад опису](https://docs.google.com/document/d/1S9h5L1MT7Uv-vZGNc8nPmWnsFPuWcAS-p-rk_JTb82U/edit)
@@ -22,6 +22,7 @@
 * Ще приклади є на [instructables](instructables.com)
 * [Світильник який вимикається\вмикається хлопком рук](http://www.instructables.com/id/Clap-Switch-1/)
 * [Планка для селфі що створює еффект руху](https://www.youtube.com/watch?v=x0Iv1eszOV4)
+* [Непідйомний молот](https://www.youtube.com/watch?v=0_8Xhzt5YQI)
 
 ## Програмні
 * Персональний вебсайт, наприклад [swiftbricks.com](https://swiftbricks.com)
