@@ -19,7 +19,7 @@
 * Самовикидальні кігті як в Росомахи
 * Скринька для речей з паролем / доступом по картці RFID 
 * Колесо-вирощувалка для рослин, типу [Omega garden](https://www.youtube.com/watch?v=5QefgR5YbvU)
-* Ще приклади є на [instructables](instructables.com)
+* Ще приклади є на [instructables](http://instructables.com)
 * [Світильник який вимикається\вмикається хлопком рук](http://www.instructables.com/id/Clap-Switch-1/)
 * [Планка для селфі що створює еффект руху](https://www.youtube.com/watch?v=x0Iv1eszOV4)
 * [Непідйомний молот](https://www.youtube.com/watch?v=0_8Xhzt5YQI)
