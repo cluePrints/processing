@@ -90,3 +90,22 @@ Intensity!
 
 # Level up! (Для найшвидших)
 [https://www.arduino.cc/en/Tutorial/Knob](https://www.arduino.cc/en/Tutorial/Knob)
+
+# Перевіримо що воно взагалі робоче
+## 1. Втикнути ардуїно
+![Connected](https://www.safaribooksonline.com/blog/wp-content/uploads/2013/07/connected-arduino-uno.jpg)
+
+## 2. Вибрати тип
+![Type](1.png)
+
+## 3. Вибрати порт
+![Port](2.png)
+
+## 4. Завантажити трохи коду
+![Blink](4.png)
+
+## 5. Залити його на ардуїно
+![Upload](3.png)
+
+## 6. Діод має блимати
+![Leonardo](leonardo.png)
